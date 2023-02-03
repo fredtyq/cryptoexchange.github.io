@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "cryptoexchenge.com",
+    "slug": "cryptoexchenge.com",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/crypto_proj.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/crypto_proj.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/crypto_proj.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon_web.png"
+    }
+  }
+}
